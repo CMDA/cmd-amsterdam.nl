@@ -16,6 +16,7 @@
 *   Concatenate
 *   Icon fonts
 *   Domain Sharding
+*   Use less requests source: declan presentation
 
 ### HTTP/2
 
@@ -33,7 +34,8 @@
 ## Image performance
 
 *   [client hints](http://httpwg.org/http-extensions/client-hints.html)
-*   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
+*   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`]      
+    (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 *   Compress images with [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) to reduce filesizes before upload
 *   [Lazyload images](http://verlok.github.io/lazyload/)
