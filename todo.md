@@ -58,7 +58,7 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
-*   Downsize images with Adobe PhotoShop, by saving for web
+*   Install an image optimization plugin for Wordpress as we cannot guarantee users will optimize their own images. [WP Smush It](https://wordpress.org/plugins/wp-smushit/) and [WP Kraken](https://wordpress.org/plugins/kraken-image-optimizer/) are both good options. A PHP library like ImageMagick might have to be installed.
 
 ### Perceived Performance
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
