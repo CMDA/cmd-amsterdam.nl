@@ -15,6 +15,7 @@
 *   Eliminate render-blocking JavaScript and CSS in above-the-fold content
 *   Minimize cookie size
 *   Reduce Latency with a Content Delivery Network (CDN)
+*   Add [AMP](https://www.ampproject.org/) to create fast blogposts
 
 ## HTTP optimisation
 
