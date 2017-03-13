@@ -83,6 +83,7 @@
 *   Don't use unnecessary classes
 *   Remove inline css and add it in a seperate file
 *   Critical CSS
+*   Use critical CSS on the slider
 *   Combine external CSS files. Merge them into as few files as possible
 *   Remove unused CSS rules. A lot of rules aren't used is the CSS files.
 *   [Prioritize above-the-fold content](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) — Show the content that is first visible first
