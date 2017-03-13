@@ -3,7 +3,6 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
-*   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
@@ -56,6 +55,7 @@
     — JavaScript parser / mangler / compressor / beautifier toolkit
 
 ### Fonts
+*   Subset fonts using fontsquirrel
 
 ### Images
 
