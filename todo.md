@@ -51,6 +51,8 @@
 *   [Lazyload images](http://verlok.github.io/lazyload/)
 *   Manually compress images with https://compressor.io
 *   Use sprites (Les requests) for small images
+*   [optimizilla.com](http://optimizilla.com/)
+    — Image optimizer shrink JPEG and PNG images to the minimum possible size w
 
 ## JavaScript performance
 
