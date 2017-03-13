@@ -62,6 +62,8 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+    
+* Remove inline css and add it in a seperate file
 
 ### HTML
 
@@ -79,10 +81,12 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+* Kraken.io (https://kraken.io/) - Use Kraken to compress and optimize images
 
 ### Perceived Performance
 
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
+* Add more animations to improve the perceived performance, showing dummy content while loading the page may also help
 
 ## Server-side optimisation
 
