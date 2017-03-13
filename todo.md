@@ -12,6 +12,8 @@
 
 ## HTTP optimisation
 
+*   Use a [CDN](https://www.cloudflare.com)
+
 ### HTTP/1
 
 *   Concatenate
@@ -61,6 +63,7 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+*   Don't load unused CSS (like the WooCommerce CSS etc)
 
 ### HTML
 
@@ -71,6 +74,7 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   Load JS that isen't required for the page to render correctly asynchronously
 
 ### Fonts
 *   Subset fonts using fontsquirrel
