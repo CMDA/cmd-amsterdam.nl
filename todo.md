@@ -45,6 +45,7 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+    - Don't use unnecessary classes
 
 ### HTML
 
