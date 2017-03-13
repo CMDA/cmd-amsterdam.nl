@@ -43,6 +43,8 @@
 
 ## Minify
 
+*   For WordPress, use Minify plugin [Better Wordpress Minify](https://nl.wordpress.org/plugins/bwp-minify/)
+
 ### CSS
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
