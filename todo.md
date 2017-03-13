@@ -62,6 +62,7 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+* Kraken.io (https://kraken.io/) - Use Kraken to compress and optimize images
 
 ### Perceived Performance
 
