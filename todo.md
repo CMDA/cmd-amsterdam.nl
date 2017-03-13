@@ -3,6 +3,7 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
+*   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
 *   Templating as Declan explained
@@ -31,7 +32,7 @@
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 *   Downsize the images
-*   Sprite
+*   Sprite https://css-tricks.com/css-sprites/
 
 ## Caching
 
@@ -61,12 +62,17 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
-*   Downsize images with Adobe PhotoShop, by saving for web
 
 ### Perceived Performance
+
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
 
 ## Server-side optimisation
+ 
+*  Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
 
-- Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
+### Void Space
+
+*   Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
+*   Set min-height for `<div class="container-wrap"/>` in order to stop the footer from beingat the top of the page onload.
 
