@@ -74,3 +74,6 @@
 ### Void Space
 
 *   Set min-height for <div class="container-wrap"/> in order to stop the footer from beingat the top of the page onload.
+
+### WordPress
+*   Rebuild theme? Build your own theme so you have more control over what is loading.
