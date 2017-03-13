@@ -58,9 +58,9 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
-*   Downsize images with Adobe PhotoShop, by saving for web
 
 ### Perceived Performance
+
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
 
 ## Server-side optimisation
