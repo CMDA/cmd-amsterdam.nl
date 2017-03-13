@@ -104,12 +104,13 @@
 
 ### Fonts
 
-* Show basic system UI font first, then load custom font using `font subsetting`.
+*   Show basic system UI font first, then load custom font using `font subsetting`.
 *   Subset fonts using fontsquirrel
 *   load fallback font before custom font show content faster
     https://github.com/bramstein/fontfaceobserver
 *   Enhance font after async loading to prevent FOIT
 *   Replace font-awesome with SVG-icons
+*   Remove blocking font loading
 
 ### Images
 
