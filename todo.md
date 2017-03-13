@@ -59,3 +59,4 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   Image optimize with [TinyPNG](https://tinypng.com/) (WordPress plugin available) or [compressor.io](https://compressor.io/) (manually)
