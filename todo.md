@@ -5,7 +5,7 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
-*   Store PDF files on https://aws.amazon.com/s3/
+*   [Make use of the attributes async and defer for script download & execution](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 
 ## HTTP optimisation
 
