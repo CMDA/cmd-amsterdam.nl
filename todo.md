@@ -4,6 +4,7 @@
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
+*   Use a CDN (for example [MaxCDN](https://www.maxcdn.com/)) for faster content delivery
 
 ## HTTP optimisation
 
