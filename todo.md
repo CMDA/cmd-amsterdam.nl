@@ -36,6 +36,7 @@
 
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
+* 	Distinguish between first view and repeat view. Use caching strategies.
 
 ## Minify
 
@@ -43,6 +44,8 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+* 	*Woocommerce.css* is being loaded, do we even use Woocommerce on the site?
+*  Alot of CSS rules are duplicates and unused.
 
 ### HTML
 
@@ -53,19 +56,27 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*		58,7% of the bytes (according to webpagetest) come from the JS files. Use a JS compressor.
+*  	Optimize Script loading by using the `defer` attribute. To execute JavaScript after DOM ready.
 
 ### Fonts
+* Show basic system UI font first, then load custom font using `font subsetting`.
+
+
 
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   As mentioned above for Bohemian Coding **Sketch 4**, you can use [SVGOcompressor](https://github.com/BohemianCoding/sketch-image-compressor) and [SIC](https://github.com/BohemianCoding/sketch-image-compressor).
+* Implement `picture` or correct `srcset` to prevent the download of large images.
+* 	Replace font-awesome and logo with SVG-icons or inline SVG.
 
 ### Perceived Performance
 
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
 
 ## Server-side optimisation
- 
+
 *  Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
 
 ### Void Space
