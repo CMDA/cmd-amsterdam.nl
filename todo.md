@@ -33,7 +33,6 @@
 *   [client hints](http://httpwg.org/http-extensions/client-hints.html)
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-*   [Lazyload images](http://verlok.github.io/lazyload/)
 
 ## Caching
 
@@ -46,6 +45,7 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+    - Remove the woocommerence css stylesheets
 
 ### HTML
 
