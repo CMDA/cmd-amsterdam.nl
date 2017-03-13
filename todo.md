@@ -46,6 +46,8 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+*   Styles asynchroon loaden in the head with js 
+    filamentgroup does this aswell in the noscript tag for visitors who dont have js enabled.
 
 ### HTML
 
