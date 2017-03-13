@@ -53,6 +53,8 @@
 *   Use sprites (Les requests) for small images
 *   [optimizilla.com](http://optimizilla.com/)
     — Image optimizer shrink JPEG and PNG images to the minimum possible size w
+*   Downsize the images
+*   Sprite
 
 ## JavaScript performance
 
@@ -67,6 +69,7 @@
 *   Use [Varnish Caching](http://varnishspeedtest.nl/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F) for up to 300% speed increase
 *   [WP Rocket](https://wp-rocket.me/) - Most advanced caching plugin for WordPress.
 *   Distinguish between first view and repeat view. Use caching strategies.
+*   Service Workers
 
 ## Minify
 
@@ -93,6 +96,7 @@
     — Javascript-based HTML compressor/minifier
 *   Remove unused js files
 *   Use only one responsive menu for all screen sizes, instead of a seperate `mobile-menu`
+*   Templating as Declan explained
 
 ### JavaScript
 
