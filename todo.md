@@ -74,7 +74,6 @@
 *   Combine external CSS files. Merge them into as few files as possible
 *   Remove unused CSS rules. A lot of rules aren't used is the CSS files.
 *   [Prioritize above-the-fold content](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) — Show the content that is first visible first
-*   Remove the woocommerence css stylesheets
 
 ### HTML
 
@@ -105,6 +104,8 @@
 *   Loading the logo's inline
 *   Use SVG for images, although Wordpress doesn't support this due to [security isues](https://www.bjornjohansen.no/svg-in-wordpress)
 *   Use Kraken.io (https://kraken.io/) to compress images
+*   Set srcset attribute for different images in different viewports
+*   Use picture element to use different image file extensions and set fallbacks
 
 ### Perceived Performance
 
