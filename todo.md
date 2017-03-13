@@ -43,10 +43,11 @@
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
 *   Use [Varnish Caching](http://varnishspeedtest.nl/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F) for up to 300% speed increase 
+*   [WP Rocket](https://wp-rocket.me/) - Most advanced caching plugin for WordPress.
 
 ## Minify
 
-*   Minify plugin for WordPress [Autoptimize](https://wordpress.org/plugins/autoptimize/): HTML, CSS and JS. Also have option for above the fold and critical CSS.
+*   For WordPress, use Minify plugin [Better Wordpress Minify](https://nl.wordpress.org/plugins/bwp-minify/)
 
 ### CSS
 
@@ -62,7 +63,6 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
-*   Prevent multiple versions and requests for jQuery. The page itself requests jQuery, but the plugins also include different versions.
 
 ### Fonts
 *   Subset fonts using fontsquirrel
