@@ -3,7 +3,6 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
-*   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
@@ -26,6 +25,7 @@
 *   [WebPageTest](https://www.webpagetest.org)
 *   [Chrome Dev Tools](https://developer.chrome.com/devtools)
 *   [Chrome Audits](https://developer.chrome.com/extensions/experimental_devtools_audits)
+*   [Sucuri](https://performance.sucuri.net/)
 
 ## Image performance
 
