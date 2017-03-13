@@ -51,6 +51,7 @@
 
 *   [html-minifier](https://github.com/kangax/html-minifier)
     — Javascript-based HTML compressor/minifier
+    - Do not use inline styles
 
 ### JavaScript
 
