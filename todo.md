@@ -74,6 +74,8 @@
 
 ### Fonts
 *   Subset fonts using fontsquirrel
+*   load fallback font before custom font show content faster
+https://github.com/bramstein/fontfaceobserver
 
 ### Images
 
