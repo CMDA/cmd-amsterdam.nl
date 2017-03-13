@@ -90,6 +90,7 @@
 *   [html-minifier](https://github.com/kangax/html-minifier)
     — Javascript-based HTML compressor/minifier
 *   Remove unused js files
+*   Use only one responsive menu for all screen sizes, instead of a seperate `mobile-menu`
 
 ### JavaScript
 
