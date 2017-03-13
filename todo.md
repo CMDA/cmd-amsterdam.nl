@@ -17,7 +17,6 @@
 *   Concatenate
 *   Icon fonts
 *   Domain Sharding
-*   Reduce external HTTP requests
 
 ### HTTP/2
 
@@ -42,10 +41,6 @@
 *   [Lazyload images](http://verlok.github.io/lazyload/)
 *   Use sprites (Les requests) for small images
 
-## JavaScript performance
-
-*   Prevent multiple versions and requests for jQuery. The page itself requests jQuery, but the plugins also include different versions.
-
 ## Caching
 
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
@@ -61,6 +56,7 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+*   add Critical CSS for the landing page [link[(https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 
 ### HTML
 
@@ -71,6 +67,7 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   Prevent multiple versions and requests for jQuery. The page itself requests jQuery, but the plugins also include different versions.
 
 ### Fonts
 *   Subset fonts using fontsquirrel
