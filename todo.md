@@ -33,6 +33,7 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+*   Don't load unused CSS (like the WooCommerce CSS etc)
 
 ### HTML
 
