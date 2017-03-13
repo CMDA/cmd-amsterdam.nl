@@ -4,7 +4,6 @@
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
-*   Store PDF files on https://aws.amazon.com/s3/
 
 ## HTTP optimisation
 
