@@ -55,9 +55,9 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   Place Javascript at the end of the page and not in the header.
 
 ### Fonts
-*   Subset fonts using fontsquirrel
 
 ### Images
 
