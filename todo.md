@@ -5,7 +5,6 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
-*   Use HTTPS to serve images (console gives 'insecure content' warning)
 *   Store PDF files on https://aws.amazon.com/s3/
 *   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1) 
 
@@ -35,23 +34,20 @@
 *   [client hints](http://httpwg.org/http-extensions/client-hints.html)
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-*   Compress images with [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) to reduce filesizes before upload
 *   [Lazyload images](http://verlok.github.io/lazyload/)
 
 ## Caching
 
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
-*   Use [Varnish Caching](http://varnishspeedtest.nl/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F) for up to 300% speed increase 
 
 ## Minify
-
-*   For WordPress, use Minify plugin [Better Wordpress Minify](https://nl.wordpress.org/plugins/bwp-minify/)
 
 ### CSS
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+*   [Prioritize above-the-fold content](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) — Show the content that is first visible first
 
 ### HTML
 
