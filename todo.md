@@ -8,6 +8,7 @@
 *   Use HTTPS to serve images (console gives 'insecure content' warning)
 *   Store PDF files on https://aws.amazon.com/s3/
 *   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1) 
+*   Fallbacks for HTML, CSS and JavaScript
 
 ## HTTP optimisation
 
@@ -62,7 +63,6 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
-*   Prevent multiple versions and requests for jQuery. The page itself requests jQuery, but the plugins also include different versions.
 
 ### Fonts
 *   Subset fonts using fontsquirrel
