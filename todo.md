@@ -59,6 +59,7 @@
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   picture element for images
 
 ### Perceived Performance
 
