@@ -56,7 +56,13 @@
 ### Fonts
 
 ### Images
+
+*   Downsize images with Adobe PhotoShop, by saving for web
 *   Downsize images with Adobe PhotoShop, by saving for web
 
 ### Perceived Performance
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
+
+## Server-side optimisation
+
+- Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
