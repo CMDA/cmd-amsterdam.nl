@@ -3,6 +3,7 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
+*   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
 
@@ -52,16 +53,13 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   Bundle JavaScript files, to minimize amount of requests
 
 ### Fonts
 
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
-*   Downsize images with Adobe PhotoShop, by saving for web
-
-### Perceived Performance
-*   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
 
 ## Server-side optimisation
 
