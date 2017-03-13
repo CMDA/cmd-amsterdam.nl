@@ -64,6 +64,7 @@
 *   Caching plugin for Wordpress https://www.w3-edge.com/products/w3-total-cache
 *   Use [Varnish Caching](http://varnishspeedtest.nl/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F) for up to 300% speed increase
 *   [WP Rocket](https://wp-rocket.me/) - Most advanced caching plugin for WordPress.
+*   Distinguish between first view and repeat view. Use caching strategies.
 
 ## Minify
 
@@ -81,6 +82,8 @@
 *   Remove unused CSS rules. A lot of rules aren't used is the CSS files.
 *   [Prioritize above-the-fold content](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent) — Show the content that is first visible first
 *   Remove the woocommerence css stylesheets
+*   `Woocommerce.css` is being loaded, do we even use Woocommerce on the site?
+*   A lot of CSS rules are duplicates and unused.
 
 ### HTML
 
@@ -96,9 +99,12 @@
 *   What if no javascript is loaded? (fallback for menu? maybe?)
 *   Use attribute 'defer' if you want to place scripts in the head
 *   Avoid blocking scripts, so use defer/async or put your code at the bottom 
+*   58,7% of the bytes (according to webpagetest) come from the JS files. Use a JS compressor.
+*   Optimize Script loading by using the `defer` attribute. To execute JavaScript after DOM ready.
 
 ### Fonts
 
+* Show basic system UI font first, then load custom font using `font subsetting`.
 *   Subset fonts using fontsquirrel
 *   load fallback font before custom font show content faster
     https://github.com/bramstein/fontfaceobserver
@@ -114,6 +120,9 @@
 *   Use SVG for images, although Wordpress doesn't support this due to [security isues](https://www.bjornjohansen.no/svg-in-wordpress)
 *   Use Kraken.io (https://kraken.io/) to compress images
 *   Serve Scaled Images
+*   As mentioned above for Bohemian Coding **Sketch 4**, you can use [SVGOcompressor](https://github.com/BohemianCoding/sketch-image-compressor) and [SIC](https://github.com/BohemianCoding/sketch-image-compressor).
+*   Implement `picture` or correct `srcset` to prevent the download of large images.
+*   Replace font-awesome and logo with SVG-icons or inline SVG.
 
 ### Perceived Performance
 
