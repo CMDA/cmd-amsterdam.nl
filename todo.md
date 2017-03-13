@@ -126,6 +126,7 @@
 *   As mentioned above for Bohemian Coding **Sketch 4**, you can use [SVGOcompressor](https://github.com/BohemianCoding/sketch-image-compressor) and [SIC](https://github.com/BohemianCoding/sketch-image-compressor).
 *   Implement `picture` or correct `srcset` to prevent the download of large images.
 *   Replace font-awesome and logo with SVG-icons or inline SVG.
+*   Install an image optimization plugin for Wordpress as we cannot guarantee users will optimize their own images. [WP Smush It](https://wordpress.org/plugins/wp-smushit/) and [WP Kraken](https://wordpress.org/plugins/kraken-image-optimizer/) are both good options. A PHP library like ImageMagick might have to be installed.
 
 ### Perceived Performance
 
