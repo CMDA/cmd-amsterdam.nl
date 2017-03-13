@@ -56,4 +56,7 @@
 ### Fonts
 
 ### Images
-*   Downsize images with Adobe PhotoShop, by saving for web
+
+## Server-side optimisation
+
+- Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
