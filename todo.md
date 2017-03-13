@@ -38,6 +38,7 @@
 
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
+*   Caching plugin for Wordpress https://www.w3-edge.com/products/w3-total-cache
 
 ## Minify
 
