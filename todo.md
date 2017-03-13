@@ -3,6 +3,7 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
+* Display skeleton screens instead of loading indicators
 
 ## HTTP optimisation
 
