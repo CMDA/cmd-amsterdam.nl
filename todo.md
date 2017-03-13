@@ -6,7 +6,7 @@
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
-
+*   Templating as Declan explained
 ### HTTP/1
 
 *   Concatenate
@@ -31,11 +31,14 @@
 *   [client hints](http://httpwg.org/http-extensions/client-hints.html)
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+*   Downsize the images
+*   Sprite
 
 ## Caching
 
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
+*   service workers
 
 ## Minify
 
