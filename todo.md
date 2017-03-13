@@ -6,6 +6,7 @@
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 *   Use HTTPS to serve images (console gives 'insecure content' warning)
+*   Store PDF files on https://aws.amazon.com/s3/
 
 ## HTTP optimisation
 
@@ -34,6 +35,7 @@
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 *   Compress images with [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) to reduce filesizes before upload
+*   [Lazyload images](http://verlok.github.io/lazyload/)
 
 ## Caching
 
@@ -61,6 +63,7 @@
     — JavaScript parser / mangler / compressor / beautifier toolkit
 
 ### Fonts
+*   Subset fonts using fontsquirrel
 
 ### Images
 
@@ -71,8 +74,9 @@
 *   [Facebook content placeholder](http://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
 
 ## Server-side optimisation
- 
-*  Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
+
+*   Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
+*   Enable the nginx content cache. [Documentation](https://www.nginx.com/resources/admin-guide/content-caching/)
 
 ### Void Space
 
