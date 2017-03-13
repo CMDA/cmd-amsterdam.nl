@@ -38,6 +38,7 @@
 *   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 *   Compress images with [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) to reduce filesizes before upload
+    * TinyPNG also have a WordPress plugin that works with the API of TinyPNG, so when you upload a image in WordPress it will also automatically compressed for every image size WordPress generates.
 *   [Lazyload images](http://verlok.github.io/lazyload/)
 *   Use sprites (Les requests) for small images
 
@@ -50,7 +51,6 @@
 *   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
     — Static asset revisioning by appending content hash to filenames
 *   Use [Varnish Caching](http://varnishspeedtest.nl/?url=https%3A%2F%2Fwww.cmd-amsterdam.nl%2Fcmd%2F) for up to 300% speed increase 
-*   [WP Rocket](https://wp-rocket.me/) - Most advanced caching plugin for WordPress.
 
 ## Minify
 
