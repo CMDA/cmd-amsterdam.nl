@@ -6,6 +6,8 @@
 
 ## HTTP optimisation
 
+*   Use a [CDN](https://www.cloudflare.com)
+
 ### HTTP/1
 
 *   Concatenate
