@@ -4,6 +4,7 @@
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
+*   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
 
@@ -25,6 +26,17 @@
 *   [WebPageTest](https://www.webpagetest.org)
 *   [Chrome Dev Tools](https://developer.chrome.com/devtools)
 *   [Chrome Audits](https://developer.chrome.com/extensions/experimental_devtools_audits)
+
+## Image performance
+
+*   [client hints](http://httpwg.org/http-extensions/client-hints.html)
+*   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
+*   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+
+## Caching
+
+*   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
+    — Static asset revisioning by appending content hash to filenames
 
 ## Minify
 
