@@ -74,6 +74,7 @@
 ## Minify
 
 *   Minify plugin for WordPress [Autoptimize](https://wordpress.org/plugins/autoptimize/): HTML, CSS and JS. Also have option for above the fold and critical CSS.
+*   Minify and gZip the styles.css
 
 ### CSS
 
