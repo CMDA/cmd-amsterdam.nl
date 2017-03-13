@@ -3,6 +3,7 @@
 ## Miscellaneous
 
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
+*   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
 
 ## HTTP optimisation
 
@@ -56,4 +57,3 @@
 ### Fonts
 
 ### Images
-*   Downsize images with Adobe PhotoShop, by saving for web
