@@ -5,6 +5,7 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
+*   Reduce Latency with a Content Delivery Network (CDN)
 
 ## HTTP optimisation
 
@@ -57,11 +58,11 @@
     — JavaScript parser / mangler / compressor / beautifier toolkit
 
 ### Fonts
-*   Subset fonts using fontsquirrel
 
 ### Images
 
 *   Downsize images with Adobe PhotoShop, by saving for web
+*   Serve Scaled Images 
 
 ### Perceived Performance
 
