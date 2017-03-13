@@ -16,6 +16,7 @@
 *   Concatenate
 *   Icon fonts
 *   Domain Sharding
+- Reduce external HTTP requests
 
 ### HTTP/2
 
@@ -62,7 +63,6 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
-*   Prevent multiple versions and requests for jQuery. The page itself requests jQuery, but the plugins also include different versions.
 
 ### Fonts
 *   Subset fonts using fontsquirrel
