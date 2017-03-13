@@ -38,6 +38,9 @@
 
 ## Minify
 
+### General
+*   Don't use WordPress.
+
 ### CSS
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
