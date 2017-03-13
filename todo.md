@@ -5,6 +5,7 @@
 *   Tip: Apart Profiel / gebruiker in Chrome zonder plugins
 *   Display skeleton screens instead of loading indicators
 *   [Use gzip compression on assets](http://softstribe.com/wordpress/enable-gzip-compression-in-wordpress/)
+*   Use HTTPS to serve images (console gives 'insecure content' warning)
 
 ## HTTP optimisation
 
