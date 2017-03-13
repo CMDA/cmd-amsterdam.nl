@@ -27,16 +27,18 @@
 *   [Chrome Dev Tools](https://developer.chrome.com/devtools)
 *   [Chrome Audits](https://developer.chrome.com/extensions/experimental_devtools_audits)
 
-## Image performance
+## Image performance		
+		
+*   [client hints](http://httpwg.org/http-extensions/client-hints.html)		
+*   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)		
+*   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)		
+* [webp](https://developers.google.com/speed/webp/)
+   — Images can be placed as webp to reduce image sizes. You can convert the images to a .webp mimetype. Use current mimetypes as fallback while, using the picture element.
+	
+## Caching	
 
-*   [client hints](http://httpwg.org/http-extensions/client-hints.html)
-*   [`srcset`](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/) and [`sizes`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_4_Using_the_srcset_and_sizes_attributes)
-*   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-
-## Caching
-
-*   [gulp-rev](https://github.com/sindresorhus/gulp-rev)
-    — Static asset revisioning by appending content hash to filenames
+*   [gulp-rev](https://github.com/sindresorhus/gulp-rev)		
+    — Static asset revisioning by appending content hash to filenames		
 
 ## Minify
 
