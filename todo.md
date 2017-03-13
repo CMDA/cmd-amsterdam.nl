@@ -44,6 +44,7 @@
 
 *   [Uglify](https://github.com/mishoo/UglifyJS2)
     — JavaScript parser / mangler / compressor / beautifier toolkit
+*   Load JS that isen't required for the page to render correctly asynchronously
 
 ### Fonts
 
