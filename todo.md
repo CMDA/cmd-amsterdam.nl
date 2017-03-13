@@ -76,6 +76,7 @@
 
 ### Fonts
 *   Subset fonts using fontsquirrel
+- Enhance font after async loading to prefent VOIT
 
 ### Images
 
