@@ -44,6 +44,8 @@
 
 *   [clean-css](https://github.com/jakubpawlowicz/clean-css)
     — Fast and efficient CSS optimizer for node.js and the Web
+    
+* Remove inline css and add it in a seperate file
 
 ### HTML
 
