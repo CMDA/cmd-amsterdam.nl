@@ -38,6 +38,7 @@
 *   [`<picture>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 *   Compress images with [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) to reduce filesizes before upload
 *   [Lazyload images](http://verlok.github.io/lazyload/)
+*   Use sprites (Les requests) for small images
 
 ## JavaScript performance
 
@@ -51,7 +52,7 @@
 
 ## Minify
 
-*   Minify plugin for WordPress [Autoptimize](https://wordpress.org/plugins/autoptimize/): HTML, CSS and JS. Also have option for above the fold and critical CSS.
+*   For WordPress, use Minify plugin [Better Wordpress Minify](https://nl.wordpress.org/plugins/bwp-minify/)
 
 ### CSS
 
