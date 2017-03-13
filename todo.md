@@ -55,5 +55,6 @@
     — JavaScript parser / mangler / compressor / beautifier toolkit
 
 ### Fonts
+*   [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator) Subset fonts using Font Squirrel
 
 ### Images
