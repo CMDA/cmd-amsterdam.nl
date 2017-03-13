@@ -61,5 +61,3 @@
 *   Downsize images with Adobe PhotoShop, by saving for web
 *   Image optimize with [TinyPNG](https://tinypng.com/) (WordPress plugin available) or [compressor.io](https://compressor.io/) (manually)
 
-### WordPress
-*   Rebuild theme? Build your own theme so you have more control over what is loading.
