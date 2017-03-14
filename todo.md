@@ -154,3 +154,7 @@
 
 *   Build custom theme
 *   Reserve space for the full size image on the home page. When the page is loaded, the content won't jump around
+
+### MySQL
+
+*   [MySQL tunning](https://www.keycdn.com/blog/website-performance-optimization/#database)
