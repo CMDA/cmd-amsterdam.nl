@@ -145,6 +145,7 @@
 
 *   Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
 *   Enable the nginx content cache. [Documentation](https://www.nginx.com/resources/admin-guide/content-caching/)
+*   [Infrastructure](https://www.keycdn.com/blog/website-performance-optimization/#infrastructure)
 
 ### Void Space
 
