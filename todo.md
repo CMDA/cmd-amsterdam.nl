@@ -9,7 +9,7 @@
 *   [Text in Image :frowning:](http://ux.stackexchange.com/questions/41593/is-the-usage-of-text-embedded-in-an-image-a-bad-practice-for-very-controlled-us)
 *   Use HTTPS to serve images (console gives 'insecure content' warning)
 *   Store PDF files on https://aws.amazon.com/s3/
-*   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1) 
+*   [Reduce the number of plugins you use on your site] (https://hostingfacts.com/how-to-speed-up-your-website/#1)
 *   Fallbacks for HTML, CSS and JavaScript
 *   Reduce inline javascript
 *   Eliminate render-blocking JavaScript and CSS in above-the-fold content
@@ -55,6 +55,7 @@
     — Image optimizer shrink JPEG and PNG images to the minimum possible size w
 *   Downsize the images
 *   Sprite
+*   [Reserve image space](http://andmag.se/2012/10/responsive-images-how-to-prevent-reflow/)
 
 ## JavaScript performance
 
@@ -105,7 +106,7 @@
 *   Optimise script loading (defer attribute in script src) [source](https://www.w3schools.com/tags/att_script_defer.asp)
 *   What if no javascript is loaded? (fallback for menu? maybe?)
 *   Use attribute 'defer' if you want to place scripts in the head
-*   Avoid blocking scripts, so use defer/async or put your code at the bottom 
+*   Avoid blocking scripts, so use defer/async or put your code at the bottom
 *   58,7% of the bytes (according to webpagetest) come from the JS files. Use a JS compressor.
 *   Optimize Script loading by using the `defer` attribute. To execute JavaScript after DOM ready.
 
@@ -144,6 +145,7 @@
 
 *   Upgrade PHP to version 7. [It's much faster.](http://blog.wpoven.com/2016/03/31/php-5-6-vs-php-7-wordpress-sites-nginx/)
 *   Enable the nginx content cache. [Documentation](https://www.nginx.com/resources/admin-guide/content-caching/)
+*   [Infrastructure](https://www.keycdn.com/blog/website-performance-optimization/#infrastructure)
 
 ### Void Space
 
@@ -153,3 +155,7 @@
 
 *   Build custom theme
 *   Reserve space for the full size image on the home page. When the page is loaded, the content won't jump around
+
+### MySQL
+
+*   [MySQL tunning](https://www.keycdn.com/blog/website-performance-optimization/#database)
