@@ -157,7 +157,7 @@
 
 *   Build custom theme
 *   Reserve space for the full size image on the home page. When the page is loaded, the content won't jump around
-*   Wordpress minify assets https://wordpress.org/plugins/bwp-minify/
+*   [Wordpress minify assets](https://wordpress.org/plugins/bwp-minify/)
 
 ### MySQL
 
