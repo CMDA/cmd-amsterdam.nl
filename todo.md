@@ -61,6 +61,7 @@
 
 *   Prevent multiple versions and requests for jQuery. The page itself requests jQuery, but the plugins also include different versions.
 *   Get rid of js files that aren't used. JS takes up ~50% of the requests and bytes
+*   Use of webworkers
 
 ## Caching
 
@@ -71,6 +72,7 @@
 *   [WP Rocket](https://wp-rocket.me/) - Most advanced caching plugin for WordPress.
 *   Distinguish between first view and repeat view. Use caching strategies.
 *   Service Workers
+*   Use manifest for offline browsing
 
 ## Minify
 
@@ -155,6 +157,7 @@
 
 *   Build custom theme
 *   Reserve space for the full size image on the home page. When the page is loaded, the content won't jump around
+*   [Wordpress minify assets](https://wordpress.org/plugins/bwp-minify/)
 
 ### MySQL
 
